@@ -7,4 +7,3 @@ def suma(num1, num2):
 
 print(suma(1,2))
 print(suma(2,1))
-input()

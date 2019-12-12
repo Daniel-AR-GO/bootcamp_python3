@@ -14,5 +14,3 @@ print(rectangle_or_square(5,5))
 print(rectangle_or_square(6,5))
 print(rectangle_or_square(6,6))
 print(rectangle_or_square(6,7))
-
-input()

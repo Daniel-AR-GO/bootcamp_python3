@@ -9,5 +9,3 @@ cambiando_cadenas('Hello World!')
 
 suma= suma(89,90)
 print(suma *2)
-
-input()
