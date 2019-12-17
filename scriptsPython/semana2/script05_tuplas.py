@@ -1,6 +1,6 @@
 cadena = 'hello World!'
 print(cadena)
-tupla =tuple(cadena)    #Una tupla es muy similar a las listas pero en estas no se puede cambiar su contenidon ni sus elementos
+tupla =tuple(cadena)    #Una tupla es muy similar a las listas pero en estas no se puede cambiar su contenido ni sus elementos
 print(cadena)
 print(tupla.count('o'))
 print(tupla[2])
